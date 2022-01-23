@@ -16,3 +16,8 @@ setup environtment :
    2. ilcs4prjects@gmail.com as developer
    3. luthfim.ilham@gmail.com as developer karena account sourcetree hanya bisa pake 1 id_rsa_pub
 4. Test commit lagi dari webstorm
+5. Flow nya adalah sbb:
+   1. melakukan development di branch development
+   2. melakukan commit
+   3. melakukan push ke branch development
+   4. membuat pull request ke preprod untuk dilakukan uat
