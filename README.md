@@ -21,3 +21,5 @@ setup environtment :
    2. melakukan commit
    3. melakukan push ke branch development
    4. membuat pull request ke preprod untuk dilakukan uat
+
+Confused
