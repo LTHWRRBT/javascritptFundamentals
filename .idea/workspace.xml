@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0dba3dd-5cc1-463f-9f6a-fec788fc07a3" name="Changes" comment="coba commit dr branch mana nih" />
+    <list default="true" id="d0dba3dd-5cc1-463f-9f6a-fec788fc07a3" name="Changes" comment="update git ignore">
+      <change beforePath="$PROJECT_DIR$/dataStructure/dataStructure.js" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure/dataStructure.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +91,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="penambahan 1 user lagi" />
     <MESSAGE value="coba commit dr branch mana nih" />
-    <option name="LAST_COMMIT_MESSAGE" value="coba commit dr branch mana nih" />
+    <MESSAGE value="update git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="update git ignore" />
   </component>
 </project>
