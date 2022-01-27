@@ -24,7 +24,7 @@ const profile1 ={
 }
 
 profile1.firstName1 = "Sahrom";
-let age1 = 32;
+profile1.age1 = 32;
 
 ({firstName1, age1} = profile1);
 
