@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0dba3dd-5cc1-463f-9f6a-fec788fc07a3" name="Changes" comment="add  git ignore">
+    <list default="true" id="d0dba3dd-5cc1-463f-9f6a-fec788fc07a3" name="Changes" comment="add destructur array">
       <change afterPath="$PROJECT_DIR$/dataStructure/dataStructureArray.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -9,10 +9,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Preprod" />
+        <entry key="$PROJECT_DIR$" value="Development" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -104,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643326291482</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add destructur array">
+      <created>1643327504824</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643327504824</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +135,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Development" />
+                        <option value="Preprod" />
                       </list>
                     </value>
                   </entry>
@@ -138,6 +152,7 @@
     <MESSAGE value="coba commit dr branch mana nih" />
     <MESSAGE value="update git ignore" />
     <MESSAGE value="add  git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add  git ignore" />
+    <MESSAGE value="add destructur array" />
+    <option name="LAST_COMMIT_MESSAGE" value="add destructur array" />
   </component>
 </project>
