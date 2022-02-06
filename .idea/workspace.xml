@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0dba3dd-5cc1-463f-9f6a-fec788fc07a3" name="Changes" comment="add destructur array">
-      <change afterPath="$PROJECT_DIR$/dataStructure/dataStructureArray.js" afterDir="false" />
+    <list default="true" id="d0dba3dd-5cc1-463f-9f6a-fec788fc07a3" name="Changes" comment="set and map">
+      <change afterPath="$PROJECT_DIR$/dataStructure/weakMapSet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,14 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="recentNewPullRequestHead">
@@ -50,15 +59,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.dataStructureArray.js">
+  <component name="RunManager" selected="Node.js.weakMapSet.js">
     <configuration name="dataStructureArray.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/dataStructure/dataStructureArray.js" working-dir="$PROJECT_DIR$/dataStructure">
       <method v="2" />
     </configuration>
     <configuration name="dataStructure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/dataStructure/dataStructure.js" working-dir="$PROJECT_DIR$/dataStructure">
       <method v="2" />
     </configuration>
+    <configuration name="weakMapSet.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/dataStructure/weakMapSet.js" working-dir="$PROJECT_DIR$/dataStructure">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.weakMapSet.js" />
         <item itemvalue="Node.js.dataStructureArray.js" />
         <item itemvalue="Node.js.dataStructure.js" />
         <item itemvalue="Node.js.dataStructure.js" />
@@ -75,6 +88,8 @@
       <option name="presentableId" value="Default" />
       <updated>1642721778812</updated>
       <workItem from="1642721782275" duration="1107000" />
+      <workItem from="1644152424322" duration="2199000" />
+      <workItem from="1644187493639" duration="911000" />
     </task>
     <task id="LOCAL-00001" summary="penambahan 1 user lagi">
       <created>1642722768074</created>
