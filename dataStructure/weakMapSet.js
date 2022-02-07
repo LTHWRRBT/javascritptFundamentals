@@ -22,6 +22,6 @@ function countWeakUser(weakUser){
     visitCountWeakMap.set(weakUser, count+1);
 }
 
-let newVar = "to confirm once more new changes in .ignore files";
+let newVar = "to confirm once more new changes in .ignore files. workspace still not ignored";
 
 console.log(newVar);
