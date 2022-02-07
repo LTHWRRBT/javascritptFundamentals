@@ -21,3 +21,7 @@ function countWeakUser(weakUser){
     let count = visitCountWeakMap.get(weakUser) || 0;
     visitCountWeakMap.set(weakUser, count+1);
 }
+
+let newVar = "to confirm new changes in .ignore files";
+
+console.log(newVar);

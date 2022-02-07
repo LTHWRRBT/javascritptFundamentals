@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0dba3dd-5cc1-463f-9f6a-fec788fc07a3" name="Changes" comment="set and map">
-      <change afterPath="$PROJECT_DIR$/dataStructure/weakMapSet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataStructure/weakMapSet.js" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure/weakMapSet.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +56,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Node.js.weakMapSet.js">
@@ -90,6 +90,7 @@
       <workItem from="1642721782275" duration="1107000" />
       <workItem from="1644152424322" duration="2199000" />
       <workItem from="1644187493639" duration="911000" />
+      <workItem from="1644191870089" duration="367000" />
     </task>
     <task id="LOCAL-00001" summary="penambahan 1 user lagi">
       <created>1642722768074</created>
